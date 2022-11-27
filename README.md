@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 <h1 align="center"> God of War Ragnarök </h1>
 
 <p align="center">
@@ -35,5 +33,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 <br>
 
-<p align="center">Feito com ♥ by codeboost</p>
->>>>>>> 127dc0a44ee5eee492c9ade5cc35efc471af5a00
+<p align="center">by codeboost</p>
