@@ -33,4 +33,11 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 <br>
 
+## Mentor William Moreira
+<p>Formado em Ciência da Computação, Desenvolvedor Front-end. Criador da metodologia do curso online de Front-end Codeboost.
+
+Você pode encontrar os trabalhos desenvolvidos por **[@wiimoreira](https://www.instagram.com/wiimoreira)** em **[www.willmoreira.com.br](https://willmoreira.com.br/)**.</p>
+
+<img width="250" src="https://codeboost.com.br/img/william.jpg">
+
 <p align="center">by codeboost</p>
