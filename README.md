@@ -1,19 +1,16 @@
+<<<<<<< HEAD
+
+=======
 <h1 align="center"> God of War Ragnarök </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pelo codeboost para ensino de tecnologias WEB.
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="notebook" src="./img/Notebooks.png" width="100%">
+  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/445152cd-63fb-4e93-82f0-31aa0a8d00e0/landing_page_completa_do_projeto.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221127T022319Z&X-Amz-Expires=86400&X-Amz-Signature=12753e87ab0357bea5a19a7841589c2a1393af753fe2e4b88b8df6c469272c60&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22landing%2520page%2520completa%2520do%2520projeto.jpg%22&x-id=GetObject">
 </p>
 
 ## 🚀 Tecnologias
@@ -21,10 +18,10 @@ Evento exclusivo e gratuito, promovido pelo codeboost para ensino de tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
+- CSS
 - SASS
 - JavaScript
-- AOS
-- Swiper
+
 
 ## 💻 Projeto
 
@@ -39,3 +36,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <br>
 
 <p align="center">Feito com ♥ by codeboost</p>
+>>>>>>> 127dc0a44ee5eee492c9ade5cc35efc471af5a00
